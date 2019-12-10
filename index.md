@@ -11,7 +11,7 @@
 
 ***bold and italics***
 
-|Table Caption|
-| | Column 1 | Column 2|
+|Table Caption| Column 1 | Column 2|
+|---|---|---|
 | Row 1 | something here | something else here|
 | Row 2 | One more thing | here too! |
